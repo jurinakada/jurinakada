@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Juri Nakada.
+I'm a undergraduate student in japan.
+I'm currently learning machine learning.
