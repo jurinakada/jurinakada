@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Juri Nakada.
-I'm a undergraduate student in japan.
-I'm currently learning machine learning.
+
+👩‍🎓I'm a undergraduate student in japan.
+
+🤖I'm currently learning machine learning.
