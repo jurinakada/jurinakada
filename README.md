@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 I'm Juri Nakada.
 
 👩‍🎓I'm a undergraduate student in japan.
-
-🤖I'm currently learning machine learning.
+💻I'm in the department of computer science & computer engineering.
+I'm mainly interested in ML/DL, edge AI and image processing, hardware.
+🤖I'm currently learning machine learning and deep learning.
